@@ -1,2 +1,0 @@
-Hello This is first Git fiel and first message.
-This is my second message..
